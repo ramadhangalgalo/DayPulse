@@ -16,4 +16,4 @@ A daily productivity tracker to log activities, celebrate achievements, and revi
 - Tailwind CSS
 
 ## Live App
-[View on Vercel](https://your-app.vercel.app)
+[View on Vercel](https://YOUR_ACTUAL_VERCEL_URL_HERE)
